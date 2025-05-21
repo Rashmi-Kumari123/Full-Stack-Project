@@ -8,7 +8,7 @@ public class HomeController {
 
     @GetMapping
     public String HomeControllerHandler(){
-        return "Category microservice started";
+        return "Category microservice has just started";
 
     }
 }
